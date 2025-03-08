@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **Building a high-performance system using Java, Spring Boot, Spring Security, Kafka for event-driven architecture, and Redis for caching.**
 
-- 🌱 I’m currently learning **Learning more about Reactive Programming with Spring WebFlux, Advanced Kafka configurations, and Kubernetes for container orchestration. Taking a System Design course to enhance my skills in High-Level Design (HLD) and Low-Level Design (LLD) for microservices architectures.**
+- 🌱 I’m currently **Learning more about Reactive Programming with Spring WebFlux, Advanced Kafka configurations, and Kubernetes for container orchestration. Taking a System Design course to enhance my skills in High-Level Design (HLD) and Low-Level Design (LLD) for microservices architectures.**
 
-- 👯 I’m looking to collaborate on **Looking to collaborate on Open-source projects and in building microservices architectures with Spring Boot and Kafka, and implementing High-Level Design (HLD) strategies for scalable systems.**
+- 👯 I’m looking to collaborate on **Open-source projects and in building microservices architectures with Spring Boot and Kafka, and implementing High-Level Design (HLD) strategies for scalable systems.**
 
 - 💬 Ask me about **Best practices in Java, Python, Spring Boot, Microservices, System Design best practices, Kafka for messaging, and Redis for caching.**
 
