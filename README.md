@@ -6,19 +6,19 @@
 <br><br>
 </p>
 
-- 🔭 I’m currently working on **Building a high-performance system using Java, Spring Boot, Spring Security, Kafka for event-driven architecture, and Redis for caching.**
+<p style="font-size:20px;">🔭 I’m currently working on <strong>Building a high-performance system using Java, Spring Boot, Spring Security, Kafka for event-driven architecture, and Redis for caching.</strong></p>
 
-- 🌱 I’m currently **Learning more about Reactive Programming with Spring WebFlux, Advanced Kafka configurations, and Kubernetes for container orchestration. Taking a System Design course to enhance my skills in High-Level Design (HLD) and Low-Level Design (LLD) for microservices architectures.**
+<p style="font-size:20px;">🌱 I’m currently <strong>Learning more about Reactive Programming with Spring WebFlux, Advanced Kafka configurations, and Kubernetes for container orchestration. Taking a System Design course to enhance my skills in High-Level Design (HLD) and Low-Level Design (LLD) for microservices architectures.</strong></p>
 
-- 👯 I’m looking to collaborate on **Open-source projects and in building microservices architectures with Spring Boot and Kafka, and implementing High-Level Design (HLD) strategies for scalable systems.**
+<p style="font-size:20px;">👯 I’m looking to collaborate on <strong>Open-source projects and in building microservices architectures with Spring Boot and Kafka, and implementing High-Level Design (HLD) strategies for scalable systems.</strong></p>
 
-- 💬 Ask me about **Best practices in Java, Python, Spring Boot, Microservices, System Design best practices, Kafka for messaging, and Redis for caching.**
+<p style="font-size:20px;">💬 Ask me about <strong>Best practices in Java, Python, Spring Boot, Microservices, System Design best practices, Kafka for messaging, and Redis for caching.</strong></p>
 
-- 📫 How to reach me **susha.mani006@gmail.com**
+<p style="font-size:20px;">📫 How to reach me <strong>susha.mani006@gmail.com</strong></p>
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1qHvDqQWSLjQVa-K2XBkGnsDuhZ3rM5yi](https://drive.google.com/drive/folders/1qHvDqQWSLjQVa-K2XBkGnsDuhZ3rM5yi)
+<p style="font-size:20px;">📄 Know about my experiences <a href="https://drive.google.com/drive/folders/1qHvDqQWSLjQVa-K2XBkGnsDuhZ3rM5yi">here</a></p>
 
-- ⚡ Fun fact **I code best with coffee in hand and love solving algorithm challenges for fun!**
+<p style="font-size:20px;">⚡ Fun fact <strong>I code best with coffee in hand and love solving algorithm challenges for fun!</strong></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
